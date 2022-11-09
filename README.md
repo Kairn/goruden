@@ -22,12 +22,12 @@
 | け     | ケ     | ke     | kei      | ke       |
 | こ     | コ     | ko     | kou      | ko       |
 | さ     | サ     | sa     | sa       | sa       |
-| し     | シ     | si     | xi       | shi\si   |
+| し     | シ     | si     | xi       | shi/si   |
 | す     | ス     | su     | si       | su       |
 | せ     | セ     | se     | sei      | se       |
 | そ     | ソ     | so     | sou      | so       |
 | た     | タ     | ta     | ta       | ta       |
-| ち     | チ     | ti     | qi       | chi\ti   |
+| ち     | チ     | ti     | qi       | chi/ti   |
 | つ     | ツ     | tu     | ci       | tu       |
 | て     | テ     | te     | tei      | te       |
 | と     | ト     | to     | tou      | to       |
